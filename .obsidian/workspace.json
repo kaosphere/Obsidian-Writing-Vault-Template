@@ -23,21 +23,97 @@
             "id": "cdc5db9f60001b1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "setrsetst.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "056a054ebd5840ff",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4377110ad1d37597",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "20 Worldbuilding/11 Idées/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab1d6e384876200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Worldbuilding/12 Lieux/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97120329f4b693ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Worldbuilding/14 Peuples/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1381a6b66d2f07af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Worldbuilding/15 Évènements/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf07ed7c563d4bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90 Images/91 Lieux/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dd0b1bd33332745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Manuscrit/Chapitre 02/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08716b5d151fbd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Manuscrit/Chapitre 03/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "00 Manuscrit/Chapitre 03/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "00 Manuscrit/Chapitre 03/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "00 Manuscrit/Chapitre 03/Untitled.md"
               }
             }
           },
@@ -197,9 +273,17 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "660a449402052b5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,17 +302,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "056a054ebd5840ff",
+  "active": "08716b5d151fbd4b",
   "lastOpenFiles": [
+    "00 Manuscrit/Chapitre 02/Untitled.md",
     "setrsetst.md",
-    "50 Templates/Personnage.md",
-    "00 Manuscrit/Chapitre 01/Chapitre 1.md",
-    "30 Personnages/Relations.canvas",
-    "40 Outline/Brain dump.md",
-    "90 Images/91 Lieux/Kaos_giant_cave_with_huge_stone_pillars_filled_with_bioluminesc_9774f9c0-94d6-4c46-bcfd-7d47c658a744.png",
-    "90 Images/91 Lieux/Kaos_underworld_consisting_of_large_caverns_wil_large_stone_pil_cc29cb6e-a8ee-4b6b-a2ba-534770d5a583.png",
-    "90 Images/91 Lieux/Kaos_underworld_consisting_of_large_caverns_wil_large_stone_pil_e6aa6d21-f4c0-417e-afaf-bffec56b9b08.png",
-    "90 Images/91 Lieux/Kaos_giant_cave_with_huge_stone_pillars_filled_with_bioluminesc_025d90cc-f0f8-43fe-873e-52ea612452f3.png",
-    "90 Images/91 Lieux/Kaos_giant_cave_with_huge_stone_pillars_filled_with_bioluminesc_2acb7e6a-7964-4656-9aa8-b41e47cd7af1.png"
+    "90 Images/92 Personnages/Untitled.md",
+    "90 Images/91 Lieux/Untitled.md",
+    "20 Worldbuilding/15 Évènements/Untitled.md",
+    "20 Worldbuilding/14 Peuples/Untitled.md",
+    "20 Worldbuilding/12 Lieux/Untitled.md",
+    "20 Worldbuilding/11 Idées/Untitled.md",
+    "test.md",
+    "50 Templates/Personnage.md"
   ]
 }

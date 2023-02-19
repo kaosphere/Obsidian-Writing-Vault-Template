@@ -11,25 +11,25 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "test.md": {
+    "90 Images/92 Personnages/Untitled.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1676840454812,
-      "modifiedDate": 1676840454812
+      "createdDate": 1676841562834,
+      "modifiedDate": 1676841562834
     },
-    "setrsetst.md": {
+    "90 Images/91 Lieux/Untitled.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1676840313972,
-      "modifiedDate": 1676840313972
+      "createdDate": 1676841560969,
+      "modifiedDate": 1676841560969
     },
     "50 Templates/Personnage.md": {
       "isDirectory": false,
@@ -38,7 +38,7 @@
       "pageCount": 0.09666666666666666,
       "characterCount": 205,
       "nonWhitespaceCharacterCount": 141,
-      "createdDate": 1676839046069,
+      "createdDate": 1676841057986,
       "modifiedDate": 1676840018958
     },
     "40 Outline/Brain dump.md": {
@@ -48,8 +48,28 @@
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1676838878458,
+      "createdDate": 1676841057983,
       "modifiedDate": 1676839545620
+    },
+    "20 Worldbuilding/15 Évènements/Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676841542577,
+      "modifiedDate": 1676841542577
+    },
+    "20 Worldbuilding/14 Peuples/Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676841541234,
+      "modifiedDate": 1676841541234
     },
     "20 Worldbuilding/13 Faune et Flore/Untitled.md": {
       "isDirectory": false,
@@ -58,8 +78,48 @@
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1676839391421,
+      "createdDate": 1676841057969,
       "modifiedDate": 1676839391421
+    },
+    "20 Worldbuilding/12 Lieux/Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676841538503,
+      "modifiedDate": 1676841538503
+    },
+    "20 Worldbuilding/11 Idées/Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676841536128,
+      "modifiedDate": 1676841536128
+    },
+    "00 Manuscrit/Chapitre 03/Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676841600675,
+      "modifiedDate": 1676841600675
+    },
+    "00 Manuscrit/Chapitre 02/Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676841578826,
+      "modifiedDate": 1676841578826
     },
     "00 Manuscrit/Chapitre 01/Chapitre 1.md": {
       "isDirectory": false,
@@ -68,7 +128,7 @@
       "pageCount": 0.016666666666666666,
       "characterCount": 30,
       "nonWhitespaceCharacterCount": 20,
-      "createdDate": 1676836311071,
+      "createdDate": 1676841057954,
       "modifiedDate": 1676839664099
     }
   }
