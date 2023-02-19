@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "acc61a4cffb49884",
+    "type": "split",
+    "children": [
+      {
+        "id": "85dc86afd64c5368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126827bdd722a854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Templates/Personnage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdc5db9f60001b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setrsetst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "056a054ebd5840ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ed72617f6b31034",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "30 Personnages/Relations.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "95a3b746fcf1fbeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Manuscrit/Chapitre 01/Chapitre 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88b3491251282469",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f49a523e555265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c02de8dbfcb6e797",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af531832b6c802f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01cf64252616e86e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "03ed0b16a2f9b5a1",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac4f917ad48cdfdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e12efb78871e780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2be4c13dbc2c7f41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "485ce46746e54c7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1db6de6c20b9445",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96091a6270eacd82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test.md"
+              }
+            }
+          },
+          {
+            "id": "439bf1f385b69321",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-word-sprint:Activate Word Sprint Leaf": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "056a054ebd5840ff",
+  "lastOpenFiles": [
+    "setrsetst.md",
+    "50 Templates/Personnage.md",
+    "00 Manuscrit/Chapitre 01/Chapitre 1.md",
+    "30 Personnages/Relations.canvas",
+    "40 Outline/Brain dump.md",
+    "90 Images/91 Lieux/Kaos_giant_cave_with_huge_stone_pillars_filled_with_bioluminesc_9774f9c0-94d6-4c46-bcfd-7d47c658a744.png",
+    "90 Images/91 Lieux/Kaos_underworld_consisting_of_large_caverns_wil_large_stone_pil_cc29cb6e-a8ee-4b6b-a2ba-534770d5a583.png",
+    "90 Images/91 Lieux/Kaos_underworld_consisting_of_large_caverns_wil_large_stone_pil_e6aa6d21-f4c0-417e-afaf-bffec56b9b08.png",
+    "90 Images/91 Lieux/Kaos_giant_cave_with_huge_stone_pillars_filled_with_bioluminesc_025d90cc-f0f8-43fe-873e-52ea612452f3.png",
+    "90 Images/91 Lieux/Kaos_giant_cave_with_huge_stone_pillars_filled_with_bioluminesc_2acb7e6a-7964-4656-9aa8-b41e47cd7af1.png"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "test.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676840454812,
+      "modifiedDate": 1676840454812
+    },
+    "setrsetst.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676840313972,
+      "modifiedDate": 1676840313972
+    },
+    "50 Templates/Personnage.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 29,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 205,
+      "nonWhitespaceCharacterCount": 141,
+      "createdDate": 1676839046069,
+      "modifiedDate": 1676840018958
+    },
+    "40 Outline/Brain dump.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676838878458,
+      "modifiedDate": 1676839545620
+    },
+    "20 Worldbuilding/13 Faune et Flore/Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1676839391421,
+      "modifiedDate": 1676839391421
+    },
+    "00 Manuscrit/Chapitre 01/Chapitre 1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 30,
+      "nonWhitespaceCharacterCount": 20,
+      "createdDate": 1676836311071,
+      "modifiedDate": 1676839664099
+    }
+  }
+}
